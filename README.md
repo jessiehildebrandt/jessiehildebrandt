@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Jessie Hildebrandt</h1>
+<h3 align="center">✨️Emacs Nerd Extraordinaire✨️</h3>
 
-<!--
-**jessiehildebrandt/jessiehildebrandt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Most of my repositories here are mirrors of my GitLab projects.
+  <br />
+  If you're looking for more of my stuff, you might find it over on <a href="https://gitlab.com/jessieh"><strong>my GitLab page</strong></a>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">📫  Reach me at <a href="mailto:contact@jessieh.net"><strong>contact@jessieh.net</strong></a>.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">💻  Or visit my personal website <a href="https://jessieh.net"><strong>here</strong></a>.</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jessiehildebrandt" />
+</p>
