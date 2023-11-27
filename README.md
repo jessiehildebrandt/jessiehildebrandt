@@ -1,5 +1,4 @@
-<h1 align="center">Jessie Hildebrandt</h1>
-<h3 align="center">✨️Emacs Nerd Extraordinaire✨️</h3>
+<h3 align="center">Thank you for checking out my projects!</h3> 
 
 <p align="center">
   Most of my repositories here are mirrors of my GitLab projects.
